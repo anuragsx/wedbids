@@ -1,0 +1,750 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Weddingbids - Wedding Business Marketing - Find New Wedding Customers
+</title>
+<meta content='Weddingbids connects your business with eager brides right at the moment they&#39;re looking for vendors. Click the link for more info.' name='description'>
+<meta content='3302D65B887EEFC4E5939113EE976648' name='msvalidate.01'>
+<meta content='xI-Fji28Fies5qpxPRnwkMsGFAQAR2zbx3I0Ia4iSuQ' name='google-site-verification'>
+<link href="https://fonts.googleapis.com/css?family=Lato|Autour+One" media="screen" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400" media="screen" rel="stylesheet" />
+<link href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" media="screen" rel="stylesheet" />
+<link data-turbolinks-track="true" href="https://weddingbids-assets.s3.amazonaws.com/assets/application-82f265776cbf0626068da6a9912ecbc6.css" media="all" rel="stylesheet" />
+<script data-turbolinks-track="true" src="https://weddingbids-assets.s3.amazonaws.com/assets/application-9bc839c4d2a854bcfeed641ad4dcb4c4.js"></script>
+<script>
+  var switchTo5x=true;
+</script>
+<script src="https://weddingbids-assets.s3.amazonaws.com/assets/sharethis/button-5423d74acfa9faafc43c82c15a8eaa7d.js"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="0MsgOe3AsS5sX2xKVr9AnyCJCi7QLLd9Zg6fuaTHwqM=" name="csrf-token" />
+<script src="https://cdn.optimizely.com/js/668941824.js"></script>
+
+</head>
+<body class='pages' id='top'>
+<div class='fixed-header'>
+<div class='container business-header'>
+<div class='row'>
+<div class='col-sm-4 logo'>
+<a href="../assets/user-7d637a7ae854e6578a0c2156b9fae565.png"><img alt="Logo" class="large-img" src="https://weddingbids-assets.s3.amazonaws.com/assets/business/logo-16b3d687383854214a030dcaa32f4154.png" style="width: 160px;" />
+<img alt="Logo" class="small-img hidden" src="https://weddingbids-assets.s3.amazonaws.com/assets/business/logo-16b3d687383854214a030dcaa32f4154.png" style="width: 85px;" />
+</a></div>
+<div class='col-sm-8 text-right header-buttons'>
+<div class='social-media'>
+<a class="facebook" href="http://www.facebook.com/weddingbidsoz" target="blank"><i class='icon-facebook'></i>
+</a><a class="twitter" href="http://www.twitter.com/weddingbidsoz" target="blank"><i class='icon-twitter'></i>
+</a><a class="pinterest" href="http://www.pinterest.com/weddingbids" target="blank"><i class='icon-pinterest'></i>
+</a></div>
+<div class='dots'>
+<img alt="Header dots" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/header-dots-ca8dde893e03fbce14acbefc5e8c5798.png" />
+</div>
+<a class="links" href="presentation#about">ABOUT</a>
+<a class="links" href="presentation#how">HOW IT WORKS</a>
+<a class="links" href="presentation#testimonials">TESTIMONIALS</a>
+<a class="links" href="presentation#benefits">BENEFITS</a>
+<a class="links" href="presentation#marketing">MARKETING</a>
+<a class="links" href="presentation#pricing">PRICING</a>
+<div class='dots'>
+<img alt="Header dots" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/header-dots-ca8dde893e03fbce14acbefc5e8c5798.png" />
+</div>
+</div>
+</div>
+</div>
+<div class='container business-header-paper-bottom'></div>
+</div>
+
+<div class='body-content'>
+
+<div id='intro'>
+<div class='container business-intro'>
+<div class='container index-paper'>
+<div class='container index-wedding-business-owners'>
+<div class='invitation-owners-center'>
+<img alt="Invitation owners" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/invitation-owners-6bf3d7214fd3082027410cdea30c20d3.png" />
+<a href="presentation#pricing"><h1 class='get-pricing'>GET PRICING</h1>
+<h1 class='arrow'>></h1>
+</a></div>
+<div class='right-side-text visible-lg'>
+<h1 class='commitment-fear'>FEAR COMMITMENT? NO PROBLEM.</h1>
+<p class='free-plan'>We have a free plan & no contracts.</p>
+</div>
+</div>
+<div class='as-seen-in'>
+<div class='title'>
+<img alt="Seen in" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/seen-in-8e10cb45c092934f3bd4d682dad234a2.png" />
+</div>
+<div class='logos'>
+<div class='row'>
+<div class='col-md-3'>
+<img alt="Sydney" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/sydney-1f6dfc972a4c7ecde832d11545aee5ec.png" />
+</div>
+<div class='col-md-3'>
+<img alt="String" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/string-8c9c4bb130324f41480ea319d71670ef.png" />
+</div>
+<div class='col-md-3'>
+<img alt="Killer startups" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/killer-startups-062af8e8373bb5bc5d6c459636318568.png" />
+</div>
+<div class='col-md-3'>
+<img alt="Startups" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/startups-ce0a4c61ccf8b39e3999c4cedd1608ed.png" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id='about'>
+<br>
+<div class='container business-tour-video'>
+<div class='title'>
+<img alt="Video title" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/video-title-ce9491a440aa9df2e278ac6e582f5684.png" />
+</div>
+<div class='video'>
+<iframe allowfullscreen='' frameborder='0' height='315' src='https://www.youtube.com/embed/ge2BfFByZRk?rel=0' width='100%'></iframe>
+</div>
+</div>
+<br>
+<br>
+</div>
+
+<div id='how'>
+<div class='container business-how'>
+<div class='title'>
+<img alt="How title" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/how-title-ce7698f58710cad8fbdcf4d68e707910.png" />
+<p class='subtitle'>YOU WANT CUSTOMERS. OUR USERS WANT QUALITY VENDORS.</p>
+<p>Every month engaged couples use Weddingbids to find and hire vendors near them.</p>
+</div>
+<div class='presentation'>
+<div class='row'>
+<div class='col-md-4'>
+<img alt="How light" class="icon" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/how-light-379fe1de1a3b4b9d382424cbb643758b.png" />
+<p>Users post their jobs and what they're looking for.</p>
+<img alt="How arrow" class="arrow visible-lg visible-md" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/how-arrow-97e460c691a51ab163fcd6428741c73c.png" />
+</div>
+<div class='col-md-4'>
+<img alt="How letter" class="icon" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/how-letter-1a22a5b9ab910792dd5d348b4b5a12f3.png" />
+<p>Weddingbids notifies relevant vendors of the opportunity.</p>
+<img alt="How arrow" class="arrow visible-lg visible-md" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/how-arrow-97e460c691a51ab163fcd6428741c73c.png" />
+</div>
+<div class='col-md-4'>
+<img alt="How talk" class="icon" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/how-talk-7f7c5507748805cb466507119cc60c21.png" />
+<p>Vendors contact the users and quote on the job.</p>
+</div>
+</div>
+</div>
+<div class='unlimited'>
+<p>Unlimited leads. Unlimited contact with potential customers.</p>
+</div>
+<div class='browse'>
+<a href="presentation#pricing">BROWSE MEMBERSHIP AND PRICING &gt;</a>
+</div>
+</div>
+</div>
+
+<div id='testimonials'>
+<div class='container business-testomonials'>
+<div class='testimonial'>
+<div class='row top'>
+<div class='col-md-4'>
+<img alt="Testimonial title" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/testimonial-title-1bdbdac5b0fffbc5f164d1f3b9a8a3ef.png" />
+</div>
+<div class='col-md-8'>
+<img alt="Man buble" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/man-buble-c95d359a475de6ebb11db1914aae7377.png" />
+<div class='text-top-message'>
+<p>Great service and experience. I can honestly vouch for this company. They are like no other. A++</p>
+</div>
+<div class='text-top-name'>
+<p>John L. | Sweet Bakery</p>
+</div>
+</div>
+</div>
+<div class='row bottom'>
+<div class='col-md-8'>
+<img alt="Woman buble" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/woman-buble-263aeef7841225967a7b497d14de3438.png" />
+<div class='text-bottom-message'>
+<p>My business has seen a 20% boost since purchasing an annual membership. Thank you Wedding Bids!</p>
+</div>
+<div class='text-bottom-name'>
+<p>Caroline V. | River Florist</p>
+</div>
+</div>
+<div class='col-md-4'>
+<img alt="Click here" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/click-here-35366aaf3260ca6849a6ef5ed99c0777.png" />
+<a class="read-more" href="presentation#read_more">READ MORE &gt;</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id='benefits'>
+<br>
+<div class='container business-benefits'>
+<div class='title'>
+<img alt="Benefits" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/benefits-caf0044c8499bf2a78dad0789fabce5a.png" />
+</div>
+<div class='benefit-top'>
+<div class='row'>
+<div class='col-md-4'>
+<div class='image'>
+<img alt="Benefit dress" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/benefit-dress-8395d6d816018cbc6ce6cf6fc584f6a4.png" />
+</div>
+<div class='title'>
+<p>book more weddings</p>
+</div>
+<div class='content'>
+<p>Brides post what they're looking for. You receive notifications when a job is a match for you.</p>
+</div>
+</div>
+<div class='col-md-4'>
+<div class='image'>
+<img alt="Benefit pay" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/benefit-pay-b3446d5df42585f99ee7e27c2b9a6891.png" />
+</div>
+<div class='title'>
+<p>high quality leads</p>
+</div>
+<div class='content'>
+<p>All leads include the budget, location, description and details to help you choose the right fit.</p>
+</div>
+</div>
+<div class='col-md-4'>
+<div class='image'>
+<img alt="Benefit message" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/benefit-message-d3996dce2b88079082512f38b8481e8d.png" />
+</div>
+<div class='title'>
+<p>unlimited contact</p>
+</div>
+<div class='content'>
+<p>Browse active jobs and contact as many as you like. Get on the front foot and book more brides.</p>
+</div>
+</div>
+</div>
+</div>
+<div class='benefit-bottom'>
+<div class='row'>
+<div class='col-md-4'>
+<div class='image'>
+<img alt="Benefit pig" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/benefit-pig-bcf94d9484775a7dbeb01f3cc3dddfe0.png" />
+</div>
+<div class='title'>
+<p>cheap as chips</p>
+</div>
+<div class='content'>
+<p>Membership is cheaper than a cup of coffee per week, and entitles you to amazing job opportunities.</p>
+</div>
+</div>
+<div class='col-md-4'>
+<div class='image'>
+<img alt="Benefit star" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/benefit-star-0c7771831d60c1f5ac0f19cf9f6c39d8.png" />
+</div>
+<div class='title'>
+<p>get seen by thousands</p>
+</div>
+<div class='content'>
+<p>In addition to the job leads, membership entitles you to a beautiful listing on the site.</p>
+</div>
+</div>
+<div class='col-md-4'>
+<div class='image'>
+<img alt="Benefit bird" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/benefit-bird-f909a83e08c89493543a30e219012035.png" />
+</div>
+<div class='title'>
+<p>weddingbids insider</p>
+</div>
+<div class='content'>
+<p>Connect with our business community, with detailed guides designed to help you succeed.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id='marketing'>
+<div class='container business-marketing'>
+<div class='marketing'>
+<img alt="Marketing girl" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/marketing-girl-9f2dbf54f6bb1166ab2227fb7be4c436.png" />
+<div class='card'>
+<div class='top'>
+<p>Couples are finding us in</p>
+<p class='pink'>searches</p>
+<p class='comma'>, on</p>
+<p class='pink'>social networks</p>
+<p class='comma'>,</p>
+<p class='pink'>blogs</p>
+<p class='comma'>, by</p>
+<p class='pink'>word of mouth</p>
+<p>and in our</p>
+<p class='pink'>advertisments</p>
+<p>placed online and out-and-about.</p>
+</div>
+<div class='bottom'>
+<p>We'll do all the courting so you can land the jobs.</p>
+</div>
+<div class='link'>
+<a href="presentation#pricing">GET STARTED &gt;</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id='pricing'>
+<div class='container business-pricing'>
+<div class='title'>
+<img alt="Pricing title" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-title-a3b15198c5c13e51293ca8137b3b9232.png" />
+</div>
+<div class='content'>
+<div class='row'>
+<div class='col-md-3'>
+<div class='visible-lg visible-md'>
+<div class='information'>
+<div class='text'>
+<p class='table-tooltip' data-placement='right' data-toggle='tooltip' title='The number of unique leads you can communicate with.'>
+NUMBER OF LEADS
+</p>
+<div class='visible-lg visible-md'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text'>
+<p class='table-tooltip' data-placement='right' data-toggle='tooltip' title='The time between the job being posted and the notification being sent to you.'>
+EMAIL NOTIFICATIONS
+</p>
+<div class='visible-lg visible-md'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text'>
+<p class='table-tooltip' data-placement='right' data-toggle='tooltip' title='The number of different cities/regions your business can list in &amp; receive leads for.'>
+LOCATIONS
+</p>
+<div class='visible-lg visible-md'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text'>
+<p>BUISNESS PROFILE PAGE</p>
+<div class='visible-lg visible-md'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text'>
+<p class='table-tooltip' data-placement='right' data-toggle='tooltip' title='Receive the email address and phone number of the customer along with the lead.'>
+CUSTOMER CONTACT DETAILS
+</p>
+<div class='visible-lg visible-md'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text'>
+<p class='table-tooltip' data-placement='right' data-toggle='tooltip' title='Your listing has a priority placing in the directory, above the lower level plans.'>
+PRIORITY LISTING
+</p>
+<div class='visible-lg visible-md'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text'>
+<p class='table-tooltip' data-placement='right' data-toggle='tooltip' title='Guaranteed support within hours of asking a question. 1-1 support dealing with any issues.'>
+PRIORITY SUPPORT
+</p>
+<div class='visible-lg visible-md'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text'>
+<p>PRICE</p>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-md-3'>
+<div class='bar'>
+<div class='membership-name platinum'>
+<p class='table-tooltip' data-placement='bottom' data-toggle='tooltip' title='Save 21% on the monthly membership price if you purchase annually! &#x000A;      The cheapest way for your business to generate new leads with Weddingbids.'>
+Annual Membership
+</p>
+</div>
+<div class='table'>
+<!-- .text.header -->
+<!-- %p Full featured, unlimited access to the site. For the business owner that wants unlimited leads and job opportunities, and first opportunity to contact them. -->
+<!-- .visible-xs.visible-sm -->
+<!-- %p.pull-left.header FEATURE -->
+<!-- .visible-xs.visible-sm= image_tag("business_presentation/pricing-dots.png", class: "dot") -->
+<div class='text table-tooltip' data-placement='right' data-toggle='tooltip' title='The number of unique leads you can communicate with each month.'>
+<p>Unlimited Leads</p>
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>
+QUOTE ON JOB
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text table-tooltip' data-placement='right' data-toggle='tooltip' title='The time between the job being posted and the notification being sent to you.'>
+<p>Immediate Notification</p>
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>
+EMAIL NOTIFICATION
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text locations table-tooltip' data-placement='right' data-toggle='tooltip' title='The number of different cities/regions your business can list in &amp; receive leads for.'>
+<p>5 Locations</p>
+<div class='visible-xs visible-sm'>
+<p class='pull-left location'>
+LOCATION
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text'>
+<img alt="Membership yes" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/membership-yes-88cab1cf85eeb93f7c1089edd454da7d.png" />
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>BUISNESS PROFILE PAGE</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text table-tooltip' data-placement='right' data-toggle='tooltip' title='Receive the email address and phone number of the customer along with the lead.'>
+<img alt="Membership yes" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/membership-yes-88cab1cf85eeb93f7c1089edd454da7d.png" />
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>
+CUSTOMER CONTACT DETAILS
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text table-tooltip' data-placement='right' data-toggle='tooltip' title='Your listing has a priority placing in the directory, above the lower level plans.'>
+<img alt="Membership yes" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/membership-yes-88cab1cf85eeb93f7c1089edd454da7d.png" />
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>
+PRIORITY LISTING
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text table-tooltip' data-placement='right' data-toggle='tooltip' title='Guaranteed support within hours of asking a question. 1-1 support dealing with any issues.'>
+<img alt="Membership yes" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/membership-yes-88cab1cf85eeb93f7c1089edd454da7d.png" />
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>
+PRIORITY SUPPORT
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text footer'>
+<p class='large'>$179</p>
+<p class='small'>Annually</p>
+<p>Save 21% over monthly plan</p>
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>PRICE</p>
+</div>
+</div>
+</div>
+<div class='link platinum-gold-free'>
+<a data-plan="3" href="sign_up?plan=platinum">CHOOSE ANNUAL &gt;</a>
+</div>
+</div>
+</div>
+<div class='col-md-3'>
+<div class='bar'>
+<div class='membership-name gold'>
+<p class='table-tooltip' data-placement='bottom' data-toggle='tooltip' title='Full-featured &amp; unlimited access to the site for a low monthly fee.&#x000A;       No contracts &amp; can be cancelled at any time.'>
+Monthly Membership
+</p>
+</div>
+<div class='table'>
+<!-- .text.header -->
+<!-- %p Contact up to 10 potential customers each month. For the business owner that would prefer a cheaper membership fee. -->
+<!-- .visible-xs.visible-sm -->
+<!-- %p.pull-left.header FEATURE -->
+<!-- .visible-xs.visible-sm= image_tag("business_presentation/pricing-dots.png", class: "dot") -->
+<div class='text table-tooltip' data-placement='left' data-toggle='tooltip' title='The number of unique leads you can communicate with each month.'>
+<p>Unlimited Leads</p>
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>
+QUOTE ON JOB
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text table-tooltip' data-placement='left' data-toggle='tooltip' title='The time between the job being posted and the notification being sent to you.'>
+<p>Immediate Notification</p>
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>
+EMAIL NOTIFICATION
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text locations table-tooltip' data-placement='left' data-toggle='tooltip' title='The number of different cities/regions your business can list in &amp; receive leads for.'>
+<p>5 Locations</p>
+<div class='visible-xs visible-sm'>
+<p class='pull-left location'>
+LOCATION
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text'>
+<img alt="Membership yes" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/membership-yes-88cab1cf85eeb93f7c1089edd454da7d.png" />
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>BUISNESS PROFILE PAGE</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text table-tooltip' data-placement='left' data-toggle='tooltip' title='Receive the email address and phone number of the customer along with the lead.'>
+<img alt="Membership yes" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/membership-yes-88cab1cf85eeb93f7c1089edd454da7d.png" />
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>
+CUSTOMER CONTACT DETAILS
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text table-tooltip' data-placement='left' data-toggle='tooltip' title='Your listing has a priority placing in the directory, above the lower level plans.'>
+<img alt="Membership yes" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/membership-yes-88cab1cf85eeb93f7c1089edd454da7d.png" />
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>
+PRIORITY LISTING
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text table-tooltip' data-placement='left' data-toggle='tooltip' title='Guaranteed support within hours of asking a question. 1-1 support dealing with any issues.'>
+<img alt="Membership yes" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/membership-yes-88cab1cf85eeb93f7c1089edd454da7d.png" />
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>
+PRIORITY SUPPORT
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text footer'>
+<p class='large'>$19</p>
+<p class='small'>Monthly</p>
+<p>No contract, cancel any time.</p>
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>PRICE</p>
+</div>
+</div>
+</div>
+<div class='link platinum-gold-free'>
+<a data-plan="2" href="sign_up?plan=gold">CHOOSE MONTHLY &gt;</a>
+</div>
+</div>
+</div>
+<div class='col-md-3'>
+<div class='bar'>
+<div class='membership-name free'>
+<p class='table-tooltip' data-placement='bottom' data-toggle='tooltip' title='The free account allows you to test the site &amp; contact 2 potential customers. &#x000A;      For the business owner that wants to try Weddingbids obligation free.'>
+Free Membership
+</p>
+</div>
+<div class='table'>
+<!-- .text.header -->
+<!-- %p Contact 2 potential customers each month for free. For the business owner that wants to try WeddingBids obligation free. -->
+<!-- .visible-xs.visible-sm -->
+<!-- %p.pull-left.header FEATURE -->
+<!-- .visible-xs.visible-sm= image_tag("business_presentation/pricing-dots.png", class: "dot") -->
+<div class='text table-tooltip' data-placement='left' data-toggle='tooltip' title='The number of unique leads you can communicate with each month.'>
+<p>2 (upgrade to contact more)</p>
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>
+QUOTE ON JOB
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text table-tooltip' data-placement='left' data-toggle='tooltip' title='The time between the job being posted and the notification being sent to you.'>
+<p>5 hours delay</p>
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>
+EMAIL NOTIFICATION
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text locations table-tooltip' data-placement='left' data-toggle='tooltip' title='The number of different cities/regions your business can list in &amp; receive leads for.'>
+<p>1 Location</p>
+<div class='visible-xs visible-sm'>
+<p class='pull-left location'>
+LOCATION
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text'>
+<img alt="Membership yes" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/membership-yes-88cab1cf85eeb93f7c1089edd454da7d.png" />
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>BUISNESS PROFILE PAGE</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text table-tooltip' data-placement='left' data-toggle='tooltip' title='Receive the email address and phone number of the customer along with the lead.'>
+<img alt="Membership no" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/membership-no-98dee7aee89b92d5cb2a9d0a5e3a913c.png" />
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>
+CUSTOMER CONTACT DETAILS
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text table-tooltip' data-placement='left' data-toggle='tooltip' title='Your listing has a priority placing in the directory, above the lower level plans.'>
+<img alt="Membership no" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/membership-no-98dee7aee89b92d5cb2a9d0a5e3a913c.png" />
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>
+PRIORITY LISTING
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text table-tooltip' data-placement='left' data-toggle='tooltip' title='Guaranteed support within hours of asking a question. 1-1 support dealing with any issues.'>
+<img alt="Membership no" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/membership-no-98dee7aee89b92d5cb2a9d0a5e3a913c.png" />
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>
+PRIORITY SUPPORT
+</p>
+</div>
+<div class='visible-xs visible-sm'><img alt="Pricing dots" class="dot" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/pricing-dots-6e18984bbc00a3eea557d2fed6c86946.png" /></div>
+</div>
+<div class='text footer'>
+<p class='large'>FREE</p>
+<p class='small'>(easy to upgrade)</p>
+<p>&nbsp;</p>
+<div class='visible-xs visible-sm'>
+<p class='pull-left'>PRICE</p>
+</div>
+</div>
+</div>
+<div class='link platinum-gold-free'>
+<a data-plan="4" href="sign_up?plan=free">CHOOSE FREE &gt;</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class='container business-question'>
+<div class='row'>
+<div class='col-md-3'>
+<img alt="Question qmark" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/question-qmark-8dfab0825a6a6fa3eddc608953afad69.png" />
+</div>
+<div class='col-md-9'>
+<div class='title'>
+<img alt="Question title" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/question-title-ffc480b9970d19139617e4c36907aeaa.png" />
+</div>
+<div class='link'>
+<a href="https://weddingbids.zendesk.com/hc/en-gb" target="_blank">CHECK OUT OUR FAQ FOR ALL THE DETAILS &gt;</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+</div>
+<div class='hidden'>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', "UA-42749395-1", "weddingbids.com.au");
+ga('send', 'pageview');
+</script>
+
+<script type="text/javascript" src="https://assets.zendesk.com/external/zenbox/v2.6/zenbox.js"></script>
+<style type="text/css" media="screen, projection">
+  @import url(https://assets.zendesk.com/external/zenbox/v2.6/zenbox.css);
+</style>
+<script type="text/javascript">
+  $(document).on('page:change', function() {
+    setTimeout(function() {
+      if (typeof(Zenbox) !== "undefined") {
+        Zenbox.init({
+          dropboxID:   "20091565",
+          url:         "https://weddingbids.zendesk.com",
+          tabTooltip:  "Support",
+          tabImageURL: "https://assets.zendesk.com/external/zenbox/images/tab_support_right.png",
+          tabColor:    "black",
+          tabPosition: "Right"
+        });
+      }
+    }, 1000);
+  });
+  $(document).ready(function(){
+    if (typeof(Zenbox) !== "undefined") {
+        Zenbox.init({
+          dropboxID:   "20091565",
+          url:         "https://weddingbids.zendesk.com",
+          tabTooltip:  "Support",
+          tabImageURL: "https://assets.zendesk.com/external/zenbox/images/tab_support_right.png",
+          tabColor:    "black",
+          tabPosition: "Right"
+        });
+      }
+  });
+</script>
+
+<!-- Google Code for Remarketing Tag -->
+<!--
+------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+-------------------------------------------------
+-->
+<script>
+  /* <![CDATA[ */
+  var google_conversion_id = 1017249424;
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
+</script>
+<script src='https://www.googleadservices.com/pagead/conversion.js' type='text/javascript'>
+<![CDATA[
+]]>
+</script>
+<noscript>
+<div style='display:inline;'>
+<img alt='' height='1' src='https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1017249424/?value=0&amp;guid=ON&amp;script=0' style='border-style:none;' width='1'>
+</div>
+</noscript>
+
+</div>
+<div class='container presentation-footer'>
+<div class='links'>
+<div class='link'>
+<a href="../assets/user-7d637a7ae854e6578a0c2156b9fae565.png">HOME</a>
+</div>
+<div class='link'>
+<a href="../about_us">ABOUT US</a>
+</div>
+<div class='link'>
+<a href="../blog">BLOG</a>
+</div>
+<div class='link'>
+<a href="../terms_of_use">TERMS OF USE</a>
+</div>
+<div class='link'>
+<a href="../privacy_policy">PRIVACY POLICY</a>
+</div>
+<div class='link'>
+<img alt="Footer weddingbids" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/footer-weddingbids-6d53cf936c3e0265db85390d33d7b737.png" />
+</div>
+<div class='link made-with-love'>
+<p>made with</p>
+<img alt="Footer made with" src="https://weddingbids-assets.s3.amazonaws.com/assets/business_presentation/footer-made-with-9b36bf29d912ad3eb2c1e2735b8f2c4a.png" />
+<p>in Sydney</p>
+</div>
+</div>
+<div class='bottom'>
+<p>© 2014 WEDDINGBIDS, All Rights Reserved</p>
+</div>
+</div>
+
+</body>
+</html>
+<script>
+  $(window).unbind('scroll');
+  var string = "window.wb.layout.hideSocialBtnAndPicSmall();\nwindow.wb.business.initPricingTableTooltip();\nwindow.wb.layout.smoothScrolling();\n";
+  eval(string);
+  stLight.publisher = "4c5d95cf978c1386dd3f966bdc4f2728";
+  stButtons.locateElements();
+  window.wb.layout.dinamicallyAssignBodyTop();
+  window.wb.layout.crazyEggs("production");
+  if ("false" == "true"){
+    window.wb.layout.initNotifications();
+  }
+  window.wb.layout.heroScroll();
+</script>

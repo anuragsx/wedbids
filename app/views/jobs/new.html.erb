@@ -1,0 +1,282 @@
+<div class='container new'>
+<div class='row'>
+  <div class='col-lg-8 col-lg-offset-1'>
+    <div class='col-lg-2'></div>
+    <div class='col-lg-10 text-center'>
+      <h1>GET WEDDING QUOTES</h1>
+      <h5>Post a job describing what you need done at your wedding. Our system will match you with relevant wedding businesses who are ready to quote for your business now.</h5>
+      <br>
+    </div>
+  </div>
+</div>
+<div class='row'>
+<div class='col-lg-8 col-lg-offset-1'>
+<form accept-charset="UTF-8" action="../jobs?job_budget_id=-1" class="form-horizontal" id="new_job" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="0MsgOe3AsS5sX2xKVr9AnyCJCi7QLLd9Zg6fuaTHwqM=" /></div><div class='form-group'>
+  <label class="col-lg-4 control-label" for="job_title">Give your job a title</label>
+  <div class='col-lg-7'>
+    <div class='hover-box right text-center visible-lg visible-md'>
+      <div class='arrow-left pull-left'></div>
+      <i>
+        Whats in a title? A lot – make sure your job clearly defines your needs
+      </i>
+    </div>
+    <div class='hover-box right text-center visible-sm visible-xs'>
+      <i>
+        Whats in a title? A lot – make sure your job clearly defines your needs
+      </i>
+      <div class='arrow-down'></div>
+    </div>
+
+    <input autocomplete="off" class="form-control" id="job_title" name="job[title]" placeholder="e.g. Need a photographer in Sydney" required="required" type="text" />
+  </div>
+</div>
+<div class='form-group'>
+  <label class="col-lg-4 control-label" for="job_job_category_id">What do you need?</label>
+  <div class='col-lg-7'>
+    <div class='hover-box right text-center visible-lg visible-md'>
+      <div class='arrow-left pull-left'></div>
+      <i>
+        Pick the service you need done. Weddingbids will notify relevant businesses about your job.
+      </i>
+    </div>
+    <div class='hover-box right text-center visible-sm visible-xs'>
+      <i>
+        Pick the service you need done. Weddingbids will notify relevant businesses about your job.
+      </i>
+      <div class='arrow-down'></div>
+    </div>
+
+    <input id="job_job_category_id" name="job[job_category_id]" type="hidden" />
+    <input autocomplete="off" class="category-input form-control" id="text_field_category" name="text_field[category]" placeholder="Pick a category" required="required" type="text" />
+    <div class='caret for_input'></div>
+    <div class='small-medium' id='categories'>
+      <ul>
+        <p>No results</p>
+        <li id='3'>Accessories</li>
+        <li id='12'>Cars, Vehicles &amp; Transport</li>
+        <li id='10'>Catering, Food &amp; Drink</li>
+        <li id='8'>Celebrants</li>
+        <li id='14'>Decorations, Event Hire &amp; Bomboniere</li>
+        <li id='2'>Dresses &amp; Fashion</li>
+        <li id='9'>Flowers &amp; Florists</li>
+        <li id='5'>Hair</li>
+        <li id='15'>Invitations &amp; Stationary</li>
+        <li id='19'>Jewellery</li>
+        <li id='6'>Makeup</li>
+        <li id='20'>Master of Ceremonies</li>
+        <li id='4'>Music &amp; Entertainment</li>
+        <li id='1'>Photography</li>
+        <li id='7'>Planners &amp; Co-Ordinators</li>
+        <li id='16'>Suit Hire &amp; Sales</li>
+        <li id='11'>Venues &amp; Restaurants</li>
+        <li id='13'>Videos</li>
+        <li id='17'>Wedding Cakes</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class='form-group'>
+  <label class="col-lg-4 control-label" for="job_deadline">When do you need it?</label>
+  <div class='col-lg-7'>
+    <div class='hover-box right text-center visible-lg visible-md'>
+      <div class='arrow-left pull-left'></div>
+      <i>
+        Let the businesses know when your wedding is on so they can prepare their bid.
+      </i>
+    </div>
+
+    <input autocomplete="off" class="form-control" data-behaviour="datepicker" id="job_deadline" name="job[deadline]" placeholder="Set a deadline" required="required" type="text" />
+    <div class='caret for_input'></div>
+  </div>
+</div>
+<div class='form-group'>
+  <label class="col-lg-4 control-label" for="job_region">Where will the job be at?</label>
+  <div class='col-lg-7'>
+    <div class='hover-box right text-center visible-lg visible-md'>
+      <div class='arrow-left pull-left'></div>
+      <i>
+        Pick a location that best covers where your wedding will take place.
+      </i>
+    </div>
+    <div class='hover-box right text-center visible-sm visible-xs'>
+      <i>
+        Pick a location that best covers where your wedding will take place.
+      </i>
+      <div class='arrow-down'></div>
+    </div>
+
+    <input class="region_id" id="job_region_id" name="job[region_id]" type="hidden" />
+    <input autocomplete="off" class="region-input form-control" id="text_field_region" label="false" name="text_field[region]" placeholder="Set the location" required="required" type="text" />
+    <div class='small-medium' id='regions'>
+      <ul>
+        <li class='not-selectable'>
+          New South Wales
+        </li>
+        <li id='1'>Sydney</li>
+        <li id='2'>Mid North Coast / Coffs Harbour / Grafton</li>
+        <li id='3'>Newcastle / Hunter Vallery / Port Stephens</li>
+        <li id='4'>Albury / Wodonga / Murray</li>
+        <li id='5'>Penrith / Blue Mountains</li>
+        <li id='6'>Wagga Wagga</li>
+        <li id='7'>Far North Coast / Byron Bay / Lismore</li>
+        <li id='8'>Lower North Coast / Taree / Port Macquarie</li>
+        <li id='9'>Central Coast  / Gosford</li>
+        <li id='10'>Wollongong / South Coast</li>
+        <li id='11'>Regional</li>
+        <li class='not-selectable'>
+          Victoria
+        </li>
+        <li id='12'>Melbourne</li>
+        <li id='13'>Ballarat / Bendigo</li>
+        <li id='14'>Daylesford / Macedon Ranges</li>
+        <li id='15'>Geelong / Great Ocean Rd</li>
+        <li id='16'>Lakes Entrance / Gippsland</li>
+        <li id='17'>Mornington Peninsula</li>
+        <li id='18'>Shepparton / Central Victoria</li>
+        <li id='19'>The Murray - Mildura / Swan Hill</li>
+        <li id='20'>Yarra Valley / Dandenong Ranges</li>
+        <li id='21'>Albury / Wodonga</li>
+        <li class='not-selectable'>
+          Queensland
+        </li>
+        <li id='22'>Brisbane</li>
+        <li id='23'>Rockhampton / Bundaberg / Hervey Bay</li>
+        <li id='24'>Cairns / Port Douglas</li>
+        <li id='25'>Sunshine Coast / Noosa</li>
+        <li id='26'>Townsville / Magnetic Island</li>
+        <li id='27'>Gold Coast / Tweed Heads</li>
+        <li id='28'>Whitsundays / Mackay</li>
+        <li id='29'>Regional Queensland</li>
+        <li class='not-selectable'>
+          Western Australia
+        </li>
+        <li id='30'>Perth</li>
+        <li id='31'>Margaret River / Bunbury</li>
+        <li id='32'>Broome / Regional Western Australia</li>
+        <li class='not-selectable'>
+          South Australia
+        </li>
+        <li id='33'>Adelaide</li>
+        <li id='34'>Regional South Australia</li>
+        <li class='not-selectable'>
+          Tasmania
+        </li>
+        <li id='35'>Hobart</li>
+        <li id='36'>Launceston</li>
+        <li id='37'>Regional Tasmania</li>
+        <li class='not-selectable'>
+          North Territory
+        </li>
+        <li id='38'>Darwin</li>
+        <li id='39'>Alice Springs</li>
+        <li id='40'>Regional Northern Territory</li>
+        <li class='not-selectable'>
+          Australian Capital Territory
+        </li>
+        <li id='41'>Canberra</li>
+        <li class='not-selectable'>
+          Other
+        </li>
+        <li id='42'>Australia wide</li>
+      </ul>
+    </div>
+
+  </div>
+</div>
+<div class='form-group'>
+  <input id="job_job_budget_id" name="job[job_budget_id]" type="hidden" />
+  <label class="col-lg-4 control-label" for="job_budget">What&#39;s your budget?</label>
+  <div class='col-lg-7'>
+    <div class='hover-box right text-center visible-lg visible-md'>
+      <div class='arrow-left pull-left'></div>
+      <i>
+        We automatically selected a fair budget for this job. Selecting a lower price means businesses are less likely to be interested. We recommend you be realistic, and set a reasonable budget to attract the right vendors
+      </i>
+    </div>
+
+    <input autocomplete="off" class="budget-input form-control" id="text_field_budget" name="text_field[budget]" placeholder="$" required="required" type="text" />
+    <div class='caret for_input'></div>
+    <div class='small-medium' id='budgets'>
+      <ul>
+        <p>No results</p>
+        <li id='6'>Negotiable</li>
+        <li id='1'>$0 - 500</li>
+        <li id='2'>$500 - 1000</li>
+        <li id='3'>$1000 - 1500</li>
+        <li id='4'>$1500 - 3000</li>
+        <li id='5'>over $3000</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class='form-group'>
+  <label class="col-lg-4 control-label" for="job_email">What&#39;s your email?</label>
+  <div class='col-lg-7'>
+    <div class='hover-box right text-center visible-lg visible-md'>
+      <div class='arrow-left pull-left'></div>
+      <i>
+        We value your privacy - we hate spam too! Your email address will only be used by relevant businesses to quote on your wedding.
+      </i>
+    </div>
+    <div class='hover-box right text-center visible-sm visible-xs'>
+      <i>
+        We value your privacy - we hate spam too! Your email address will only be used by relevant businesses to quote on your wedding.
+      </i>
+      <div class='arrow-down'></div>
+    </div>
+
+    <input autocomplete="off" class="form-control" id="job_email" name="job[email]" placeholder="e.g. john@doe.com" required="required" type="email" />
+  </div>
+</div>
+<div class='form-group'>
+  <label class="col-lg-4 control-label" for="job_phone">What&#39;s your phone number?</label>
+  <div class='col-lg-7'>
+    <div class='hover-box right text-center visible-lg visible-md'>
+      <div class='arrow-left pull-left'></div>
+      <i>
+        Providing your phone number is optional. If you choose to it means businesses may call to discuss your wedding.
+      </i>
+    </div>
+    <div class='hover-box right text-center visible-sm visible-xs'>
+      <i>
+        Providing your phone number is optional. If you choose to it means businesses may call to discuss your wedding.
+      </i>
+      <div class='arrow-down'></div>
+    </div>
+
+    <input class="form-control" id="job_phone" name="job[phone]" placeholder="e.g. +61 2 1234 5678" type="text" />
+  </div>
+</div>
+<div class='form-group'>
+  <label class="col-lg-4 control-label" for="job_description">Describe what you need?</label>
+  <div class='col-lg-7'>
+    <div class='hover-box much-bigger right text-center visible-lg visible-md'>
+      <div class='arrow-left pull-left'></div>
+      <i>
+        This is your chance to explain your wedding needs in detail. List exactly what you’re looking to achieve and try to define your expectations as clearly as possible. Remember, being detailed here means you will receive higher quality bids.
+      </i>
+    </div>
+    <div class='hover-box much-bigger right text-center visible-sm visible-xs'>
+      <i>
+        This is your chance to explain your wedding needs in detail. List exactly what you’re looking to achieve and try to define your expectations as clearly as possible. Remember, being detailed here means you will receive higher quality bids.
+      </i>
+      <div class='arrow-down'></div>
+    </div>
+
+    <textarea autocomplete="off" class="form-control" id="job_description" name="job[description]" placeholder="The more detailed the better!">
+    </textarea>
+  </div>
+</div>
+
+<div class='form-group'>
+  <div class='col-lg-4'></div>
+  <div class='col-lg-7'>
+    <input class="btn btn-block btn-default" name="commit" type="submit" value="Send Me Quotes" />
+  </div>
+</div>
+</form>
+
+</div>
+</div>
+</div>
+</div>
